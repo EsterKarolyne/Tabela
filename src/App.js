@@ -14,8 +14,8 @@ class App extends Component {
         preco: "1000",
       },
       {
-        nome: "Pedro",
-        livro: "Java",
+        nome: "Victor ❤",
+        livro: "JavaScript",
         preco: "99",
       },
       {
